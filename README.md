@@ -17,7 +17,6 @@
 - Database Design & Optimization
 - Business Intelligence & Analytics
 - Cloud Computing & Big Data
-
-### 🛠️ Languages: Python · R · SQL · C/C++ · Java · OCaml
+- Languages: Python · R · SQL · C/C++ · Java · OCaml
 
 📌 **Check out my featured projects below.**
