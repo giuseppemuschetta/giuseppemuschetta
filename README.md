@@ -18,6 +18,6 @@
 - Business Intelligence & Analytics
 - Cloud Computing & Big Data
 
-### 🛠️ Languages
+### 🛠️ Languages: Python · R · SQL · C/C++ · Java · OCaml
 
-Python · R · SQL
+📌 **Check out my featured projects below.**
