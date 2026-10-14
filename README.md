@@ -1,13 +1,27 @@
-## Hi, I'm Giuseppe 👋
+## 👋 Hi, I'm Giuseppe Muschetta
+**Data Scientist · Machine Learning Engineer**<br>
+🎓 B.Sc. Computer Science · M.Sc. Candidate in Data Science & Business Informatics (final stage) @ University of Pisa
 
-### 🎓 Education
-- **M.Sc. in Computer Science** – *Data Science & Business Informatics*, University of Pisa
-- **B.Sc. in Computer Science**, University of Pisa
+🧠 **Focus** · Machine Learning · Deep Learning · LLMs & RAG · NLP · Computer Vision · Data Mining · Statistics · Databases · Business Intelligence<br>
+💻 **Languages** · Python · SQL · R · C/C++ · Java · OCaml<br>
+🧰 **Core Stack** · NumPy · pandas · PyTorch · scikit-learn · XGBoost · Polars · Hugging Face · Matplotlib · Seaborn · Spark · Docker · MLflow
 
-### 🔬 Areas of Interest
-Machine Learning · Deep Learning · Data Mining · NLP · Computer Vision · Statistics · Databases · Business Intelligence · Big Data
+<details>
+<summary>🛠️ <b>Full Tech Stack</b></summary>
 
-### 🛠️ Languages
-Python · R · SQL · C/C++ · Java · OCaml
+| Domain | Technologies & Libraries |
+|---|---|
+| **Data Processing** | NumPy · pandas · Polars · PyArrow · DuckDB |
+| **Machine Learning** | scikit-learn · XGBoost · LightGBM · CatBoost · Optuna |
+| **Deep Learning** | PyTorch · TensorFlow · Keras · JAX |
+| **LLMs & NLP** | Hugging Face Transformers · Sentence Transformers · spaCy · LangChain · FAISS · Chroma |
+| **Computer Vision** | OpenCV · torchvision · Pillow |
+| **Statistics** | SciPy · statsmodels · PyMC |
+| **Visualization & BI** | Matplotlib · Seaborn · Plotly · Altair · Power BI |
+| **Databases** | PostgreSQL · SQL Server · SQLAlchemy · pyodbc |
+| **Big Data** | Apache Spark · PySpark · Apache Airflow |
+| **MLOps & Deployment** | MLflow · DVC · ONNX · FastAPI · Docker · GitHub Actions |
+| **Cloud** | AWS · Google Cloud Platform |
+| **Development** | Git · GitHub · JupyterLab · Conda · PyCharm · VS Code |
 
-📌 **Check out my featured projects below.**
+</details>
