@@ -2,7 +2,7 @@
 **Data Scientist · Machine Learning Engineer**<br>
 🎓 B.Sc. Computer Science · M.Sc. Candidate in Data Science & Business Informatics (final stage) @ University of Pisa
 
-🧠 **Focus** · Machine Learning · Deep Learning · LLMs & RAG · NLP · Computer Vision · Data Mining · Statistics · Databases · Business Intelligence<br>
+🧠 **Focus** · Machine Learning · Deep Learning · LLMs & RAG · NLP · Computer Vision · Data Mining · Statistics · BI · Databases<br>
 💻 **Languages** · Python · SQL · R · C/C++ · Java · OCaml<br>
 🧰 **Core Stack** · NumPy · pandas · PyTorch · scikit-learn · XGBoost · Polars · Hugging Face · Matplotlib · Seaborn · Spark · Docker · MLflow
 
