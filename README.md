@@ -7,7 +7,7 @@
 🧰 **Core Stack** · NumPy · pandas · PyTorch · scikit-learn · XGBoost · Polars · Hugging Face · Matplotlib · Seaborn · Spark · Docker · MLflow
 
 <details>
-<summary>🛠️ <b>Full Tech Stack</b></summary>
+<summary>🛠️ <b>Full Tech Stack</b> 👈 <i>click to expand</i></summary>
 
 | Domain | Technologies & Libraries |
 |---|---|
