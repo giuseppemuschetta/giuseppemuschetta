@@ -4,7 +4,7 @@
 
 🧠 **Focus** · Machine Learning · Deep Learning · LLMs & RAG · NLP · Computer Vision · Data Mining · Statistics · BI · Databases<br>
 💻 **Languages** · Python · SQL · R · C/C++ · Java · OCaml<br>
-🧰 **Core Stack** · NumPy · pandas · PyTorch · scikit-learn · XGBoost · Polars · Hugging Face · Matplotlib · Spark · Docker · MLflow · FastAPI · AWS
+🧰 **Core Stack** · NumPy · pandas · PyTorch · scikit-learn · XGBoost · Polars · Hugging Face · Spark · Docker · MLflow · FastAPI · AWS
 
 <details>
 <summary>🛠️ <b>Full Tech Stack</b> 👈 <i>click to expand</i></summary>
