@@ -26,5 +26,4 @@
 
 </details>
 
-
-**🚀 More Featured Projects** · [🎵 SoundPulse — Explainable Machine Learning on Spotify](https://github.com/peppe212/SoundPulse-Explainable-Machine-Learning-on-Spotify) · [🌳 B.Sc. Thesis Categorical Decision Trees](https://github.com/peppe212/Native-Categorical-Multiway-Split-Decision-Trees) · [⚙️ Concurrent Supermarket Simulation in C/POSIX](https://github.com/peppe212/OS-Project-Concurrent-Supermarket-Simulator-in-pure-C) · [🎬 IMDb Data Mining & Predictive Analytics](https://github.com/peppe212/IMDb-Data-Mining-and-Predictive-Analytics)
+**🚀 Beyond the Pinned Projects** · [🎵 SoundPulse — Explainable Machine Learning on Spotify](https://github.com/peppe212/SoundPulse-Explainable-Machine-Learning-on-Spotify) · [🌳 B.Sc. Thesis Categorical Decision Trees](https://github.com/peppe212/Native-Categorical-Multiway-Split-Decision-Trees) · [⚙️ Concurrent Supermarket Simulation in C/POSIX](https://github.com/peppe212/OS-Project-Concurrent-Supermarket-Simulator-in-pure-C) · [🎬 IMDb Data Mining & Predictive Analytics](https://github.com/peppe212/IMDb-Data-Mining-and-Predictive-Analytics)
