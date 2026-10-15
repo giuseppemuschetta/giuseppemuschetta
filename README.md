@@ -26,7 +26,6 @@
 
 </details>
 
-**🚀 More Featured Projects**
 
-🌳 [Decision Trees — B.Sc. Thesis](https://github.com/peppe212/Native-Categorical-Multiway-Split-Decision-Trees)  
-⚙️ [Concurrent Supermarket — C/POSIX](https://github.com/peppe212/OS-Project-Concurrent-Supermarket-Simulator-in-pure-C)
+**🚀 More Featured Projects** · [🌳 Decision Trees — B.Sc. Thesis](https://github.com/peppe212/Native-Categorical-Multiway-Split-Decision-Trees) · [⚙️ Concurrent Supermarket — C/POSIX](https://github.com/peppe212/OS-Project-Concurrent-Supermarket-Simulator-in-pure-C)
+
