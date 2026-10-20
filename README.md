@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Giuseppe Muschetta · [🌐 Portfolio](https://giuseppemuschetta.github.io)
+## 👋 Hi, I'm Giuseppe Muschetta · [<img src="portfolio-link.svg" alt="🌐 Portfolio" height="24">](https://giuseppemuschetta.github.io)
 **Machine Learning Engineer · Data Scientist · Computer Scientist**<br>
 🎓 BSc Computer Science · MSc Data Science (in progress) @ University of Pisa
 
