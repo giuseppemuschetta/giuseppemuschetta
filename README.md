@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Giuseppe Muschetta
 **Data Scientist · Machine Learning Engineer**<br>
-🎓 B.Sc. Computer Science · M.Sc. Candidate in Data Science & Business Informatics (final stage) @ University of Pisa
+🎓 B.Sc. Computer Science · MSc in Computer Science, Data Science & Business Informatics (in progress)” @ University of Pisa
 
 🧠 **Focus** · Machine Learning · Deep Learning · LLMs & RAG · NLP · Computer Vision · Data Mining · Statistics · BI · Databases<br>
 💻 **Languages** · Python · SQL · R · C/C++ · Java · OCaml<br>
